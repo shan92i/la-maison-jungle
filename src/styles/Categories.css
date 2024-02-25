@@ -1,0 +1,17 @@
+.lmj-categories{
+   text-align: center;
+   padding-top: 30px;
+}
+
+.lmj-categories > label{
+    padding-right : 15px;
+   
+}
+
+.lmj-categories-select{
+    margin-right: 15px;
+}
+.lmj-categories-options{
+    text-transform: capitalize;
+   
+}

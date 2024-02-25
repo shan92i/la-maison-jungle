@@ -1,0 +1,5 @@
+.lmj-layout-inner{
+    display: flex; /* permet de créer la sidebar (sans cette prop on aurait un carré*/
+    flex-direction: row;
+
+}
